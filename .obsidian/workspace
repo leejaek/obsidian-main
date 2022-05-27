@@ -1,0 +1,130 @@
+{
+  "main": {
+    "id": "26ba9caf22fdbda2",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d9be349fbcb2794",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Daily/2022-05-27.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "78a588651933cc09",
+    "type": "split",
+    "children": [
+      {
+        "id": "d72be90d1c553850",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0bc36b749c367abd",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a26e3ec0f296f7e6",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#SQL",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "f832580b1b5d3c90",
+    "type": "split",
+    "children": [
+      {
+        "id": "b111da64ff68dffd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fc203a13d6ece407",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily/2022-05-27.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9794ae72494c97a1",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "286f50c44560143d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Daily/2022-05-27.md"
+              }
+            }
+          },
+          {
+            "id": "152113850434a479",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "3d9be349fbcb2794",
+  "lastOpenFiles": [
+    "Daily/2022-05-27.md",
+    "Books/누구나 자료 구조와 알고리즘/1. 자료 구조.md",
+    "Daily/2022-05-06.md",
+    "Lectures/알고리듬 및 자료구조 (Java)/알고리즘, 효율성, 기초 자료 구조.md",
+    "Lectures/JavaScript 알고리즘 & 자료구조 마스터클래스/Big O Notation.md",
+    "Lectures/JavaScript 알고리즘 & 자료구조 마스터클래스/소개.md",
+    "Daily/2022-04-25.md",
+    "Books/러닝 SQL/트랜잭션.md",
+    "Books/러닝 SQL/배경.md",
+    "Books/러닝 SQL/데이터베이스 생성과 데이터 추가.md"
+  ]
+}
